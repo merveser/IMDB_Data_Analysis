@@ -1,3 +1,2 @@
 # IMDB_Data_Analysis
-This project includes data analysis of IMDB's top 1000 movies dataset based on various variables.
-Movies were analyzed according to IMDB score, Meta score, genre and gross values. These analyzes were visualized using Plotly, Seaborn and Matplotlib libraries.
+In this project, I analyzed the IMDB Top 1000 movies dataset using Python. I explored genres, IMDB ratings, and Metascores, utilizing Matplotlib, Plotly, and Seaborn libraries for data visualization. This analysis provided insights into trends and patterns among top-rated films.
